@@ -1,0 +1,45 @@
+.App {
+    background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-21021a.jpg?w=800&dpr=1&fit=default&crop=default&auto=format&fm=pjpg&q=75&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=06dea802e14ceb9e92afdb7160ab5f42);
+
+    height: 200vh;
+    width: 100vw;
+
+    background-position: center center;
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+    background-size: cover;
+}
+
+.textbgabout {
+    background-color: rgba(255,255,255, 0.2)
+}
+
+.textbgwelcome {
+    background-color: rgba(255,255,255, 0.2)
+}
+
+.aboutme {
+    font-size: 35px;
+    display: flex;
+    justify-content: left;
+}
+.aboutme2{
+    font-size: 20px;
+}
+
+.welcome {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.contactme {
+    font-size: 20px;
+}
+
+.contactme2 {
+    font-size: 15px
+}
